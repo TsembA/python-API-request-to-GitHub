@@ -9,5 +9,5 @@ repos = response.json()
 print(f"🔍 Found {len(repos)} repositories for user: {username}\n")
 
 for repo in repos:
-    print(f"📦 Project Name: {repo['name']}")
-    print(f"🔗 Project URL: {repo['html_url']}\n")
+    print(f"Project Name: {repo['name']}")
+    print(f"Project URL: {repo['html_url']}\n")
