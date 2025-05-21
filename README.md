@@ -17,4 +17,3 @@ of a specified user. It prints out each repository's name and its URL.
 
 ✏️ Tip:
 To change the user, modify the `username` variable in the script.
-
